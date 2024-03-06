@@ -1,0 +1,17 @@
+plugins {
+    id'com.android.application'
+}
+apply from: '../dependencies.gradle'
+
+
+android {
+
+    defaultConfig {
+        applicationId "com.example.cainiao5"
+    }
+
+}
+
+dependencies {
+
+}
