@@ -1,11 +1,11 @@
 plugins {
-    id'com.android.application'
+    id 'com.android.application'
 }
 apply from: '../dependencies.gradle'
 
 
 android {
-
+    
     defaultConfig {
         applicationId "com.example.cainiao5"
     }
